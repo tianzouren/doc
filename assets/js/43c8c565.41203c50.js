@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[4158],{44069:e=>{e.exports=JSON.parse('{"tag":{"label":"REDIS","permalink":"/doc/docs/tags/redis","allTagsPath":"/doc/docs/tags","count":1,"items":[{"id":"redis/REDIS_REVIEW","title":"REDIS_REVIEW","description":"REDIS_REVIEW","permalink":"/doc/docs/intereview/redis"}],"unlisted":false}}')}}]);
