@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[1457],{83490:s=>{s.exports=JSON.parse('{"tag":{"label":"MYSQL","permalink":"/doc/docs/tags/mysql","allTagsPath":"/doc/docs/tags","count":1,"items":[{"id":"MYSQL/MYSQL-REVIEW","title":"MYSQL-REVIEW","description":"MYSQL-REVIEW","permalink":"/doc/docs/INTERVIEW/MYSQL/MYSQL-REVIEW"}],"unlisted":false}}')}}]);

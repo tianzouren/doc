@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[2568],{97716:s=>{s.exports=JSON.parse('{"tag":{"label":"ROCKETMQ","permalink":"/doc/docs/tags/rocketmq","allTagsPath":"/doc/docs/tags","count":1,"items":[{"id":"MQ/ROCKETMQ_REVIEW","title":"ROCKETMQ_REVIEW","description":"ROCKETMQ_REVIEW","permalink":"/doc/docs/INTERVIEW/MQ"}],"unlisted":false}}')}}]);

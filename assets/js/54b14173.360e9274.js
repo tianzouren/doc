@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[6020],{34079:a=>{a.exports=JSON.parse('{"tag":{"label":"JAVA","permalink":"/doc/docs/tags/java","allTagsPath":"/doc/docs/tags","count":1,"items":[{"id":"java/JAVA-JVM","title":"JAVA-JVM","description":"JAVA-JVM","permalink":"/doc/docs/INTERVIEW/JAVA/JVM"}],"unlisted":false}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[8954],{56944:s=>{s.exports=JSON.parse('{"tag":{"label":"NGINX","permalink":"/doc/docs/tags/nginx","allTagsPath":"/doc/docs/tags","count":1,"items":[{"id":"NGINX/NGINX-REVIEW","title":"NGINX-REVIEW","description":"NGINX-REVIEW","permalink":"/doc/docs/INTERVIEW/NGINX/NGINX-REVIEW"}],"unlisted":false}}')}}]);
