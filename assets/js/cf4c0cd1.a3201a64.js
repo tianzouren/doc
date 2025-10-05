@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[2565],{93719:s=>{s.exports=JSON.parse('{"tag":{"label":"KAFKA","permalink":"/doc/docs/tags/kafka","allTagsPath":"/doc/docs/tags","count":1,"items":[{"id":"MQ/KAFKA_REVIEW","title":"KAFKA_REVIEW","description":"KAFKA_REVIEW","permalink":"/doc/docs/INTERVIEW/MQ"}],"unlisted":false}}')}}]);
